@@ -1,2 +1,2 @@
 # I want to know about compter.
-# learning is important in the world
+#learning is important in the world.
